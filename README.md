@@ -1,3 +1,7 @@
+![Screenshoot-1](Screenshots/screenshot-1.png)
+![Screenshoot-2](Screenshots/screenshot-2.png)
+![Screenshoot-3](Screenshots/screenshot-3.png)
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Magic 8 Ball
